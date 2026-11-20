@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ia_lira",
+    "channel": "IA al Alcance",
+    "title": "2026 El ave que roba sonidos ajenos",
+    "thumb": "ROBA SONIDOS",
+    "voice": "es-MX-DaliaNeural",
+    "categoryId": "15",
+    "theme": "ave lira soberbia / Menura novaehollandiae",
+    "duration_sec": 174.0,
+    "slide_sec": 4.58,
+    "words": 417,
+    "images": 38,
+    "bytes": 8346158,
+    "file": "ia_lira.mp4"
+  },
+  {
+    "id": "fe_hacha",
+    "channel": "Refugio en la Palabra",
+    "title": "2026 El hierro no aceptó el fondo",
+    "thumb": "NO SE HUNDIÓ",
+    "voice": "es-MX-JorgeNeural",
+    "categoryId": "27",
+    "theme": "hacha prestada que flota, 2 Reyes 6, cita breve RV1909",
+    "duration_sec": 166.85,
+    "slide_sec": 2.88,
+    "words": 381,
+    "images": 58,
+    "bytes": 11687050,
+    "file": "fe_hacha.mp4"
+  },
+  {
+    "id": "cu_inmerso",
+    "channel": "Anatomia del engaño",
+    "title": "2026 El agua fría le baja el pulso",
+    "thumb": "EL PULSO CAE",
+    "voice": "es-CO-SalomeNeural",
+    "categoryId": "27",
+    "theme": "reflejo de inmersión de mamíferos; laurel, comino, pimienta negra, anís estrellado, vainilla",
+    "duration_sec": 156.1,
+    "slide_sec": 2.79,
+    "words": 406,
+    "images": 56,
+    "bytes": 11565222,
+    "file": "cu_inmerso.mp4"
+  }
+]
