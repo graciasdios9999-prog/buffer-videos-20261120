@@ -43,5 +43,54 @@
     "images": 56,
     "bytes": 11565222,
     "file": "cu_inmerso.mp4"
+  },
+  {
+    "id": "ia_sin_sangre_roja",
+    "channel": "IA al Alcance",
+    "title": "2026 El pez que caza sin sangre roja",
+    "thumb": "SIN SANGRE ROJA",
+    "voice": "es-MX-DaliaNeural",
+    "categoryId": "15",
+    "theme": "pez de hielo Channichthyidae / Chaenocephalus, sangre sin hemoglobina, kril, Belgica antarctica, petrel de las nieves",
+    "duration_sec": 3434,
+    "words": 8558,
+    "file": "ia_sin_sangre_roja.mp4",
+    "note": "no es 90 min; narracion unica medida"
+  },
+  {
+    "id": "fe_no_quedas_vacio",
+    "channel": "Refugio en la Palabra",
+    "title": "2026 Quien busca a Dios no se queda vacío",
+    "thumb": "NO QUEDAS VACÍO",
+    "voice": "es-MX-JorgeNeural",
+    "categoryId": "27",
+    "theme": "oracion original, Jehova y Jesucristo, quien busca no se queda vacio",
+    "duration_sec": 1503,
+    "words": 3573,
+    "file": "fe_no_quedas_vacio.mp4"
+  },
+  {
+    "id": "ig_tu_cuerpo_avisa",
+    "channel": "Anatomia del engaño",
+    "title": "2026 El bostezo que enfría tu cabeza",
+    "thumb": "TU CUERPO AVISA",
+    "voice": "es-CO-SalomeNeural",
+    "categoryId": "27",
+    "theme": "bostezo, huella, piel de gallina, red abdominal, moreton; sin Cuba",
+    "duration_sec": 207.5,
+    "words": 525,
+    "file": "ig_tu_cuerpo_avisa.mp4"
+  },
+  {
+    "id": "ig_la_cocina_cuida",
+    "channel": "Anatomia del engaño",
+    "title": "2026 La raíz que cambió la taza",
+    "thumb": "LA COCINA CUIDA",
+    "voice": "es-MX-DaliaNeural",
+    "categoryId": "27",
+    "theme": "jengibre canela menta manzanilla ajo romero curcuma tomillo hinojo miel; sin Cuba; no cura",
+    "duration_sec": 198.5,
+    "words": 522,
+    "file": "ig_la_cocina_cuida.mp4"
   }
 ]
